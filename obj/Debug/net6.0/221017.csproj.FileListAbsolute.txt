@@ -1,0 +1,15 @@
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\221017.csproj.AssemblyReference.cache
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\221017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\221017.AssemblyInfoInputs.cache
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\221017.AssemblyInfo.cs
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\221017.csproj.CoreCompileInputs.cache
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\bin\Debug\net6.0\221017.exe
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\bin\Debug\net6.0\221017.deps.json
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\bin\Debug\net6.0\221017.runtimeconfig.json
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\bin\Debug\net6.0\221017.dll
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\bin\Debug\net6.0\221017.pdb
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\221017.dll
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\refint\221017.dll
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\221017.pdb
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\221017.genruntimeconfig.cache
+C:\Users\Dorofeevsv\Desktop\GB C#\221017\obj\Debug\net6.0\ref\221017.dll
